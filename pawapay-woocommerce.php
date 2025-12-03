@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: pawaPay
+Plugin Name: woopawaPay
 Description: pawaPay Payment Gateway for WooCommerce
 Author: Dave Evans
 Author URI: https://www.pawapay.io
